@@ -1,0 +1,46 @@
+html {
+	height: 100%
+}
+
+body{
+	height: 75%
+}
+.BarreHaut {
+	display: flex;
+	justify-content: flex-end;
+}
+.BarreHaut {
+	padding: 5px;
+}
+
+.Gmail {
+	font: 20px Arial
+	color: white;
+}	
+
+/* Bouton Connexion Haut Droite */
+.Connexion {
+	padding:6px 0 6px 0;
+	font:bold 13px Arial;
+	background:#478bf9;
+	color:#fff;
+	border-radius:2px;
+	width:100px;
+	border:none;
+	text-align: center;
+}
+
+/* Logo Google */
+.LogoG {
+ 	width: 100px;
+ 	height: 80px;
+
+}
+
+.Milieu {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	justify-content: space-around;
+}
